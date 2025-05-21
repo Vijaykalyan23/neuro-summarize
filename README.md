@@ -79,5 +79,4 @@ Click "Summarize This Page".
 
 🌒 Dark mode support
 
-📜 License
-MIT © Vijaykalyan23
+© Vijaykalyan23
